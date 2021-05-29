@@ -1,0 +1,10 @@
+# Documentação
+
+[aem-authoring-building-fundamentals](https://1drv.ms/u/s!AviiFMDoIWSDh8FjQQ0eFNXcXQWf_A?e=ynNVC6)
+
+[develop-websites-components-aem](https://1drv.ms/u/s!AviiFMDoIWSDh8FkcWXhf-lgQS3nIQ?e=kjU1Tx)
+
+[extending-aem-advanced](https://1drv.ms/u/s!AviiFMDoIWSDh8FiDZNY9XxeYF8FWQ?e=NUbQoN)
+
+[extending-aem-foundations](https://1drv.ms/u/s!AviiFMDoIWSDh8Fl5esynWzr5iBNTg?e=vmG18B)
+

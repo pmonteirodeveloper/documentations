@@ -11,3 +11,8 @@
 
 [extending-aem-foundations](https://1drv.ms/u/s!AviiFMDoIWSDh8Fl5esynWzr5iBNTg?e=vmG18B)
 
+[aem-building-fullstack-components](https://1drv.ms/u/s!AviiFMDoIWSDh8FoRhd--XhdzeeGjw?e=ZZuGLv)
+
+[advanced-dialogs-with-granite-ui](https://1drv.ms/u/s!AviiFMDoIWSDh8Fmj_j25cQZT7QSqQ?e=lyis9U)
+
+[aem-fundamentals-building-projects](https://1drv.ms/u/s!AviiFMDoIWSDh8Fn7c5jQoRHJuaJaw?e=6LUJQf)
